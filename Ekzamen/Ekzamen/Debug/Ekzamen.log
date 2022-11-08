@@ -1,0 +1,5 @@
+﻿  Ekzamen.cpp
+C:\Users\baras\source\repos\Ekzamen\Ekzamen\Ekzamen.cpp(201,18): warning C4101: ss: неиспользованная локальная переменная
+C:\Users\baras\source\repos\Ekzamen\Ekzamen\Ekzamen.cpp(220,18): warning C4101: s: неиспользованная локальная переменная
+C:\Users\baras\source\repos\Ekzamen\Ekzamen\Ekzamen.cpp(267,19): warning C4101: MasBook: неиспользованная локальная переменная
+  Ekzamen.vcxproj -> C:\Users\baras\source\repos\Ekzamen\Debug\Ekzamen.exe
